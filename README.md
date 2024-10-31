@@ -10,4 +10,4 @@ I love connecting with other professionals, so feel free to reach out to exchang
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
 
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-abdelhafiz-7641a8335/)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-abdelhafiz-dev)
