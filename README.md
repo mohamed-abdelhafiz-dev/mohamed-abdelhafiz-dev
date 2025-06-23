@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Mohamed Abdelhafiz, a passionate front-end web developer. I have a strong background in front-end technologies and I am passionate about delivering innovative and effective solutions to achieve goals.I believe in the power of collaboration and teamwork and always strive to develop myself and my team.
+I’m Mohamed Abdelhafiz, a passionate Full Stack JavaScript Developer. I have a strong background in front-end technologies and I am passionate about delivering innovative and effective solutions to achieve goals.I believe in the power of collaboration and teamwork and always strive to develop myself and my team.
 
 I love connecting with other professionals, so feel free to reach out to exchange ideas or explore new opportunities.
 
